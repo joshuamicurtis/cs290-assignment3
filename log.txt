@@ -1,0 +1,31 @@
+Start: Mon, 20 Apr 2015 09:15:00 -0400
+End: Mon, 20 Apr 2015 09:21:29 -0400
+Tasks: Added blank log.txt
+
+Start: Mon, 20 Apr 2015 09:22:00 -0400
+End: Mon, 20 Apr 2015 09:27:55 -0400
+Tasks: Added qunit folder, src folder, tests folder, and qunit_runner.html to di
+
+Start: Mon, 20 Apr 2015 09:30:00 -0400
+End: Mon, 20 Apr 2015 10:04:09 -0400
+Tasks: Completed variables.js function, function passes test, still need to run
+
+Start: Mon, 20 Apr 2015 10:20:00 -0400
+End: Mon, 20 Apr 2015 12:20:43 -0400
+Tasks: Added completed funcions.js file to directory, not checked in jsLint.
+
+Start: Mon, 20 Apr 2015 13:00:00 -0400
+End: Mon, 20 Apr 2015 2:30:00 -0400
+Tasks: Started working on objects.js.Got stuck, emailed instructor.
+
+Start: Mon, 20 Apr 2015 19:00:00 -0400
+End: Mon, 20 Apr 2015 22:30:00 -0400
+Tasks: Added objects.js, passed test, still needs to pass jsLint.
+
+Start: Tue, 21 Apr 2015 9:00:00 -0400
+End: Tue, 21 Apr 2015 10:23:36 -0400
+Tasks: Added objects.js, passed test, passed js lint.
+
+Start: Tue, 21 Apr 2015 9:00:00 -0400
+End: Tue, 21 Apr 2015 10:25:17 -0400
+Tasks: Add functions.js and variable.js that pass js lint.
