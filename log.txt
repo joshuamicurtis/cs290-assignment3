@@ -22,10 +22,7 @@ Start: Mon, 20 Apr 2015 19:00:00 -0400
 End: Mon, 20 Apr 2015 22:30:00 -0400
 Tasks: Added objects.js, passed test, still needs to pass jsLint.
 
-Start: Tue, 21 Apr 2015 9:00:00 -0400
-End: Tue, 21 Apr 2015 10:23:36 -0400
-Tasks: Added objects.js, passed test, passed js lint.
 
 Start: Tue, 21 Apr 2015 9:00:00 -0400
 End: Tue, 21 Apr 2015 10:25:17 -0400
-Tasks: Add functions.js and variable.js that pass js lint.
+Tasks: Add functions.js objects.js, and variable.js that pass js lint.
